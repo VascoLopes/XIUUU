@@ -15,6 +15,6 @@ In a more detailed way, XIUUU provides:
 - Exchanges that use RSA also use X.509 digital certificates;
 - Digital signature for integrity check in key exchanges that use Diffie-Hellman protocol;
 - The choice of different cipher algorithms for Merkle Puzzles;
-- The the choice of different hash functions for PBKDF2.
+- The choice of different hash functions for PBKDF2.
 
 
